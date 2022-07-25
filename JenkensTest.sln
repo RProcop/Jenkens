@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkensTest", "JenkensTest.csproj", "{4E460BE4-084B-4DCF-A177-3B85F7FE2189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestJenkens", "UnitTestJenkens\UnitTestJenkens.csproj", "{8515A713-B6F7-4CF2-9CE7-FC854C9933DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E460BE4-084B-4DCF-A177-3B85F7FE2189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E460BE4-084B-4DCF-A177-3B85F7FE2189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E460BE4-084B-4DCF-A177-3B85F7FE2189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E460BE4-084B-4DCF-A177-3B85F7FE2189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8515A713-B6F7-4CF2-9CE7-FC854C9933DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8515A713-B6F7-4CF2-9CE7-FC854C9933DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8515A713-B6F7-4CF2-9CE7-FC854C9933DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8515A713-B6F7-4CF2-9CE7-FC854C9933DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7996D1-ED87-4A38-967B-0A7B4DA308C5}
+	EndGlobalSection
+EndGlobal

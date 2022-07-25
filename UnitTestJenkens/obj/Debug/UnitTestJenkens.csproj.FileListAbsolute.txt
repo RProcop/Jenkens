@@ -1,0 +1,17 @@
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\UnitTestJenkens.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\UnitTestJenkens.pdb
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\JenkensTest.exe
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\JenkensTest.pdb
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\JenkensTest.exe.config
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DProjects\JenkensTest\UnitTestJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DProjects\JenkensTest\UnitTestJenkens\obj\Debug\UnitTestJenkens.csprojAssemblyReference.cache
+D:\DProjects\JenkensTest\UnitTestJenkens\obj\Debug\UnitTestJenkens.csproj.CoreCompileInputs.cache
+D:\DProjects\JenkensTest\UnitTestJenkens\obj\Debug\UnitTestJenkens.csproj.CopyComplete
+D:\DProjects\JenkensTest\UnitTestJenkens\obj\Debug\UnitTestJenkens.dll
+D:\DProjects\JenkensTest\UnitTestJenkens\obj\Debug\UnitTestJenkens.pdb

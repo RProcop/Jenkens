@@ -1,0 +1,8 @@
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\b\UnitTestProjectJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\b\UnitTestProjectJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\b\UnitTestProjectJenkens\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\b\UnitTestProjectJenkens\bin\Debug\UnitTestProjectJenkens.dll
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\i\UnitTestProjectJenkens\Debug\UnitTestProjectJenkens.csprojAssemblyReference.cache
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\i\UnitTestProjectJenkens\Debug\UnitTestProjectJenkens.csproj.CoreCompileInputs.cache
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\i\UnitTestProjectJenkens\Debug\UnitTestProjectJenkens.csproj.CopyComplete
+D:\DProjects\JenkensTest\.vs\JenkensTest\v16\lut\0\i\UnitTestProjectJenkens\Debug\UnitTestProjectJenkens.dll

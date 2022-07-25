@@ -1,0 +1,7 @@
+D:\DProjects\JenkensTest\bin\Debug\JenkensTest.exe.config
+D:\DProjects\JenkensTest\bin\Debug\JenkensTest.exe
+D:\DProjects\JenkensTest\bin\Debug\JenkensTest.pdb
+D:\DProjects\JenkensTest\obj\Debug\JenkensTest.csprojAssemblyReference.cache
+D:\DProjects\JenkensTest\obj\Debug\JenkensTest.csproj.CoreCompileInputs.cache
+D:\DProjects\JenkensTest\obj\Debug\JenkensTest.exe
+D:\DProjects\JenkensTest\obj\Debug\JenkensTest.pdb
